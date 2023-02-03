@@ -6,3 +6,5 @@ help of matplolib i used to create some plots like histogram, bar chart, distplo
 Also in this project i worked with pandas and numpy libraries for data analysis.
 
 with the use of above defined libraries I have created some question and tried to solve that question by data analysis.
+
+Also After Data analysis I had made the powerbi dashboard to see visuals easily. which is connected to different region's data.
